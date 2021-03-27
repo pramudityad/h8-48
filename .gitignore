@@ -51,3 +51,8 @@ geckodriver.log
 *.code-workspace
 .history
 .vscode
+
+# dataset
+*.npz
+*.csv
+*.xls
