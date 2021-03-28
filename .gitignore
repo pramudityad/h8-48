@@ -56,3 +56,4 @@ geckodriver.log
 *.npz
 *.csv
 *.xls
+*.zip
